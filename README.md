@@ -29,3 +29,5 @@ Set `MYSQL_ROOT_PASSWORD` from created secret and apply other parts
 kubectl apply -f deployment.yml
 kubectl apply -f service.yml
 ```
+
+* You can [install phpMyAdmin](https://github.com/hatamiarash7/Kubernetes-phpMyAdmin) to control your MySQL deployment
